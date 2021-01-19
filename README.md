@@ -18,7 +18,7 @@
 | Fr. Feb   19th   |                  |                  |               |
 | Fr. Feb   26th   |                  |                  |               |
 | Fr. March 12th   |                  |                  |               |
-| Fr. March 19th   |                  |                  |               |
+| Fr. March 19th   | Alexa Lupi                 |                  |               |
 | Fr. March 26th   |                  |                  |               |
 | Fr. April  2nd   |                  |                  |               |
 | Fr. April  9th   |                  |                  |               |
