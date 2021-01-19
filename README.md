@@ -15,7 +15,7 @@
 | Fr. Jan   26th   |                  |                  |               |
 | Fr. Feb    5th   |                  |                  |               |
 | Fr. Feb   12th   |                  |                  |               |
-| Fr. Feb   19th   |                  |                  |               |
+| Fr. Feb   19th   |  Guanqi          |                  |               |
 | Fr. Feb   26th   |                  |                  |               |
 | Fr. March 12th   |                  |                  |               |
 | Fr. March 19th   | Alexa Lupi                 |                  |               |
