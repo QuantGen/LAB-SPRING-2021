@@ -1,9 +1,29 @@
 # LAB-SPRING-2021
 
 
+# Lab Meetings QuantGen Group Spring 2021
 
+## Where? Zoom (will be distributed)
 
+## When? Fridays 11:00am-noon
 
+[Group's Website](http://quantgen.github.io/)
+
+| Date             | Presenter(s)     |  Topic(s)        |  Materials    |
+| ---------------  | ---------------- | ---------------- | ------------- |
+| Fr. Jan   19th   |                  | Organizational meeting    |               |
+| Fr. Jan   26th   |                  |                  |               |
+| Fr. Feb    5th   |                  |                  |               |
+| Fr. Feb   12th   |                  |                  |               |
+| Fr. Feb   19th   |                  |                  |               |
+| Fr. Feb   26th   |                  |                  |               |
+| Fr. March 12th   |                  |                  |               |
+| Fr. March 19th   |                  |                  |               |
+| Fr. March 26th   |                  |                  |               |
+| Fr. April  2nd   |                  |                  |               |
+| Fr. April  9th   |                  |                  |               |
+| Fr. April  16th  |                  |                  |               |
+| Fr. April  23rd  |                  |                  |               |
 
 ### Guidelines:
 
