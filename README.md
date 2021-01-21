@@ -16,7 +16,7 @@
 | Fr. Feb    5th   |                  |                  |               |
 | Fr. Feb   12th   |                  |                  |               |
 | Fr. Feb   19th   |  Guanqi          |                  |               |
-| Fr. Feb   26th   |                  |                  |               |
+| Fr. Feb   26th   |  Agustin         |  "Fast, Exact Bootstrap PCA for p > 1 million"  |   [Fisher (not THAT Fisher) et al. 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5014451/pdf/nihms699825.pdf)|
 | Fr. March 12th   |                  |                  |               |
 | Fr. March 19th   | Alexa Lupi                 |                  |               |
 | Fr. March 26th   |                  |                  |               |
