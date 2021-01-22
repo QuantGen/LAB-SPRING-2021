@@ -18,7 +18,7 @@
 | Fr. Feb   19th   |  Guanqi          |                  |               |
 | Fr. Feb   26th   |  Agustin         |  "Fast, Exact Bootstrap PCA for p > 1 million"  |   [Fisher (not THAT Fisher) et al. 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5014451/pdf/nihms699825.pdf)|
 | Fr. March 12th   |       Alexa Lupi             |                  |               |
-| Fr. March 19th   |                |                  |               |
+| Fr. March 19th   | Fernando         |Pleiotest Package |[repo](https://github.com/FerAguate/pleiotest)|
 | Fr. March 26th   |                  |                  |               |
 | Fr. April  2nd   |                  |                  |               |
 | Fr. April  9th   |                  |                  |               |
