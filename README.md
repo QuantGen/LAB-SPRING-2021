@@ -22,7 +22,7 @@
 | Fr. March 26th   | Harold           | TBD              |               |
 | Fr. April  2nd   | Anirban          |                  |               |
 | Fr. April  9th   | Alex             | TBD: HPC Trends - GPU, Vectorization, etc. |               |
-| Fr. April  16th  |                  |                  |               |
+| Fr. April  16th  | Marco            | TBD              |               |
 | Fr. April  23rd  |                  |                  |               |
 
 ### Guidelines:
