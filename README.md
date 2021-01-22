@@ -21,7 +21,7 @@
 | Fr. March 19th   | Fernando         |Pleiotest Package |[repo](https://github.com/FerAguate/pleiotest)|
 | Fr. March 26th   |                  |                  |               |
 | Fr. April  2nd   | Anirban          |                  |               |
-| Fr. April  9th   |                  |                  |               |
+| Fr. April  9th   | Alex             | TBD: HPC Trends - GPU, Vectorization, etc. |               |
 | Fr. April  16th  |                  |                  |               |
 | Fr. April  23rd  |                  |                  |               |
 
