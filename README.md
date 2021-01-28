@@ -12,7 +12,7 @@
 | Date             | Presenter(s)     |  Topic(s)        |  Materials    |
 | ---------------  | ---------------- | ---------------- | ------------- |
 | Fr. Jan   22nd   |                  | Organizational meeting    |               |
-| Fr. Jan   29th   | no meeting       |                  |                |
+| Fr. Jan   29th   | No meeting                   |
 | Fr. Feb    5th   | Gustavo          | Quantifying the role of imperfect LD on trans-ethnic genomic prediction  |Background: [Veturi et al. (2019)](https://www.genetics.org/content/211/4/1395)   |  Materials will be posted soon...            |
 | Fr. Feb   12th   |                  |                  |               |
 | Fr. Feb   19th   |  Guanqi          |                  |               |
