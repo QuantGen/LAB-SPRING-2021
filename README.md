@@ -14,11 +14,11 @@
 | Fr. Jan   22nd   |                  | Organizational meeting    |               |
 | Fr. Jan   29th   | No meeting                   |
 | Fr. Feb    5th   | Gustavo          | Quantifying the role of imperfect LD on trans-ethnic genomic prediction  |Background: [Veturi et al. (2019)](https://www.genetics.org/content/211/4/1395)   /  Additional materials will be posted soon...            |
-| Fr. Feb   12th   |                  |                  |               |
+| Fr. Feb   12th   | Fernando         |Pleiotest Package |[repo](https://github.com/FerAguate/pleiotest)|
 | Fr. Feb   19th   |  Guanqi          |                  |               |
 | Fr. Feb   26th   |  Agustin         |  "Fast, Exact Bootstrap PCA for p > 1 million"  |   [Fisher (not THAT Fisher) et al. 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5014451/pdf/nihms699825.pdf)|
 | Fr. March 12th   |       Alexa Lupi             |                  |               |
-| Fr. March 19th   | Fernando         |Pleiotest Package |[repo](https://github.com/FerAguate/pleiotest)|
+| Fr. March 19th   |                  |                  |               |
 | Fr. March 26th   | Harold           | TBD              |               |
 | Fr. April  2nd   | Anirban          |                  |               |
 | Fr. April  9th   | Alex             | TBD: HPC Trends - GPU, Vectorization, etc. |               |
