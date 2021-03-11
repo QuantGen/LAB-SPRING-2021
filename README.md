@@ -19,7 +19,7 @@
 | Fr. Feb   26th   |  Agustin         |  "Fast, Exact Bootstrap PCA for p > 1 million"  |   [Fisher (not THAT Fisher) et al. 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5014451/pdf/nihms699825.pdf)|
 | Fr. March 12th   |       Alexa Lupi             |                  |               |
 | Fr. March 19th   |                  |                  |               |
-| Fr. March 26th   | Harold           | TBD              |               |
+| Fr. March 26th   | Harold           | Comprehensive Multiple eQTL Detection and Its Application to GWAS Interpretation | [Link](https://www.genetics.org/content/212/3/905) |
 | Fr. April  2nd   | Anirban          |                  |               |
 | Fr. April  9th   | Alex             | TBD: HPC Trends - GPU, Vectorization, etc. |               |
 | Fr. April  16th  | Marco            | TBD              |               |
