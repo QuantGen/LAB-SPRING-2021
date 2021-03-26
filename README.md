@@ -20,7 +20,7 @@
 | Fr. March 12th   |       Alexa Lupi             |                  |               |
 | Fr. March 19th   |                  |                  |               |
 | Fr. March 26th   | Harold           | Comprehensive Multiple eQTL Detection and Its Application to GWAS Interpretation | [Link](https://www.genetics.org/content/212/3/905) |
-| Fr. April  2nd   | Anirban          |                  |               |
+| Fr. April  2nd   | Anirban          | A simple new approach to variable selection in regression, with application to genetic fine mapping | [Link](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12388)|
 | Fr. April  9th   | Alex             | TBD: HPC Trends - GPU, Vectorization, etc. |               |
 | Fr. April  16th  | Marco            | TBD              |               |
 | Fr. April  23rd  |                  |                  |               |
