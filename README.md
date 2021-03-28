@@ -19,11 +19,11 @@
 | Fr. Feb   26th   |  Agustin         |  "Fast, Exact Bootstrap PCA for p > 1 million"  |   [Fisher (not THAT Fisher) et al. 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5014451/pdf/nihms699825.pdf)|
 | Fr. March 12th   |       Alexa Lupi             |                  |               |
 | Fr. March 19th   |                  |                  |               |
-| Fr. March 26th   | Harold           | Comprehensive Multiple eQTL Detection and Its Application to GWAS Interpretation | [Link](https://www.genetics.org/content/212/3/905) |
+| Fr. March 26th   |                  |                  |               |
 | Fr. April  2nd   | Anirban          | A simple new approach to variable selection in regression, with application to genetic fine mapping | [Link](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12388)|
 | Fr. April  9th   | Alex             | TBD: HPC Trends - GPU, Vectorization, etc. |               |
 | Fr. April  16th  | Marco            | TBD              |               |
-| Fr. April  23rd  |                  |                  |               |
+| Fr. April  23rd  | Harold           | Comprehensive Multiple eQTL Detection and Its Application to GWAS Interpretation | [Link](https://www.genetics.org/content/212/3/905) |
 
 ### Guidelines:
 
