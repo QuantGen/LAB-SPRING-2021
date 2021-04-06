@@ -24,6 +24,7 @@
 | Fr. April  9th   | Alex             | TBD: HPC Trends - GPU, Vectorization, etc. |               |
 | Fr. April  16th  | Marco            | TBD              |               |
 | Fr. April  23rd  | Harold           | Comprehensive Multiple eQTL Detection and Its Application to GWAS Interpretation | [Link](https://www.genetics.org/content/212/3/905) |
+| Fr. April  30th  | Robert Quinn's Lab          |  Integrating Metabolomic and Microbiome data: Emerging Research Questions | [QUINNLABS](https://www.robertquinnlab.com/) |
 
 ### Guidelines:
 
