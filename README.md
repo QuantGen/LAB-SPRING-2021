@@ -24,7 +24,7 @@
 | Fr. April  9th   | Alex             | GPGPU / CUDA | [Slides](https://slides.agrueneberg.info/2021-04-09/gpgpu-cuda.html) |
 | Fr. April  16th  | Marco            | TBD              |               |
 | Fr. April  23rd  | Harold           | Comprehensive Multiple eQTL Detection and Its Application to GWAS Interpretation | [Link](https://www.genetics.org/content/212/3/905) |
-| Fr. April  30th  | Robert Quinn's Lab          |  Integrating Metabolomic and Microbiome data: Emerging Research Questions | [QUINNLABS](https://www.robertquinnlab.com/) |
+| Fr. April  30th  | Robert Quinn's Lab          |  Integrating Metabolomic and Microbiome data: Emerging Research Questions | [Quinn's Lab](https://www.robertquinnlab.com/) |
 
 ### Guidelines:
 
